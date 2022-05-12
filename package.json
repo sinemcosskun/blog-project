@@ -1,0 +1,28 @@
+{
+  "name": "blog-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinemcosskun/blog-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinemcosskun/blog-project/issues"
+  },
+  "homepage": "https://github.com/sinemcosskun/blog-project#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
